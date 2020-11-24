@@ -6,29 +6,14 @@ What if scenarios....
 ```
 .
 ├── data
-│   ├── geospatial
-│   │   ├── DSFRS_Service_Area.cpg
-│   │   ├── DSFRS_Service_Area.dbf
-│   │   ├── DSFRS_Service_Area.prj
-│   │   ├── DSFRS_Service_Area.qpj
-│   │   ├── DSFRS_Service_Area.shp
-│   │   ├── DSFRS_Service_Area.shx
-│   │   ├── MSOAs.cpg
-│   │   ├── MSOAs.dbf
-│   │   ├── MSOAs.prj
-│   │   ├── MSOAs.shp
-│   │   ├── MSOAs.shx
-│   └── images
-│   │    ├── SampleMap.gif
-├── example
-│   ├── positive_cases_wk_42.png
-│   └── SampleMap.gif
-├── └── dsfrs_stations.csv
+│   ├── base_cas_master.csv
+│   ├── drive_time_master.csv
+│   ├── oa_master.csv
+│   └── turnout_time_master.csv
 ├── .gitignore
-├── CV19_Choropleth.ipynb
-├── CV19_Choropleth_with_gif_output.ipynb
-├── CV19_Choropleth_with_gif_output_alt.ipynb
-├── Licence
+├── LICENSE
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+├── response_modeller_v0.1.py
+└── response_modeller_v0.2.py
 ```
