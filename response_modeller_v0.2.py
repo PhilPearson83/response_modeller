@@ -3,7 +3,6 @@ import os.path as path
 import seaborn as sns; sns.set(style="white")
 import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
-import numpy as np
 import itertools
 
 # defne directory where the python file resides
