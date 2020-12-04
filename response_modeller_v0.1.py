@@ -1,6 +1,5 @@
 import pandas as pd
 import os.path as path
-import numpy as np
 import itertools
 
 # defne directory where the python file resides
