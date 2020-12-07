@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 import os.path as path
 import seaborn as sns; sns.set(style="white")
 import matplotlib.pyplot as plt
