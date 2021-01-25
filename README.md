@@ -7,7 +7,7 @@ _Contents:_ **[Directory Layout](#Directory-Layout)** | **[Installation](#instal
 
 ---
 
-# Directory Layout
+### Directory Layout
 
 ```
 .
@@ -23,3 +23,5 @@ _Contents:_ **[Directory Layout](#Directory-Layout)** | **[Installation](#instal
 ├── response_modeller_v0.1.py
 └── response_modeller_v0.2.py
 ```
+
+### Installation
